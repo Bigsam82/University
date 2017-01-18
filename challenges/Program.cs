@@ -15,6 +15,7 @@ namespace challenges
             student1.ShowyoInfo();
 
             student1.StudentFullname = " Gary";
+            student1.University = "FAMU";
             student1.ShowyoInfo();
             
              
